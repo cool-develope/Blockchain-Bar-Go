@@ -1,0 +1,7 @@
+{
+    "genesis_time": "2020-05-09T00:00:00.000000000Z",
+    "chain_id": "blockchain-bar-ledger",
+    "balances": {
+        "cool": 1000000
+    }
+  }

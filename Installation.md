@@ -16,10 +16,5 @@ The convention is to store:
 
 #### Using Git
 ```bash
-mkdir -p $GOPATH/src/github.com/web3coach
-cd $GOPATH/src/github.com/web3coach
-
-git clone https://github.com/web3coach/the-blockchain-bar.git
+git clone https://github.com/cool-develope/Blockchain-Bar-Go.git
 ```
-
-PS: Make sure you actually clone it inside the `src/github.com/web3coach` directory, not your own, otherwise it won't compile. Go rules.
